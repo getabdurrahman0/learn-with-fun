@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d6271b2.chunk.css",
+    "main.js": "/static/js/main.5e90a1a1.chunk.js",
+    "main.js.map": "/static/js/main.5e90a1a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7d1db6e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7d1db6e.js.map",
+    "static/js/2.13ebcf96.chunk.js": "/static/js/2.13ebcf96.chunk.js",
+    "static/js/2.13ebcf96.chunk.js.map": "/static/js/2.13ebcf96.chunk.js.map",
+    "static/js/3.564adbab.chunk.js": "/static/js/3.564adbab.chunk.js",
+    "static/js/3.564adbab.chunk.js.map": "/static/js/3.564adbab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7d6271b2.chunk.css.map": "/static/css/main.7d6271b2.chunk.css.map",
+    "static/js/2.13ebcf96.chunk.js.LICENSE.txt": "/static/js/2.13ebcf96.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/full-page-banner-background-hd-free-download.434e9d4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d1db6e.js",
+    "static/js/2.13ebcf96.chunk.js",
+    "static/css/main.7d6271b2.chunk.css",
+    "static/js/main.5e90a1a1.chunk.js"
+  ]
+}

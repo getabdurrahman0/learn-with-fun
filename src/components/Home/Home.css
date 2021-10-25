@@ -1,0 +1,26 @@
+.bg-container{
+    background-image: url('./images/full-page-banner-background-hd-free-download.jpg');
+    height: 500px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.quote{
+    font-family: arial regular;
+    color: #fff;
+}
+.quoter{
+    margin-left: 480px;
+    color: #ffeb00;
+}
+.card-img-top{
+    
+    height: 400px;
+}
+
+#topic{
+    background-color: #ffeb00;
+    color: #303030;
+}
