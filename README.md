@@ -1,4 +1,4 @@
-<h1>WorldWide Science</h1>  https://tender-swanson0.netlify.app/
+<h1>Learn With fun </h1>  https://tender-swanson0.netlify.app/
 1.This project is about the Science subject that how to serve all the students by this project or course.
 2.This Project makes with react js, html, css, bootstrap;
 3.I think this project helps a lot of student who don't have get any good tutor. But here is the world class teacher in our community..Thank you.
