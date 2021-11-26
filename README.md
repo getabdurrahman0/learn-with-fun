@@ -6,7 +6,6 @@
 
 ## About & Features
 
-
 **Learn with Fun** is a full-stack single-page Education service provider web app.
 
 ### Front-end Technology : 
